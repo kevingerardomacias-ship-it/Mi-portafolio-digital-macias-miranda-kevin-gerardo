@@ -61,11 +61,11 @@ Contacto
 
 ## Nombre:Kevin Gerardo Macías Miranda 
 
-# Correo electrónico: kevingerardomacias@gmail.com
+## Correo electrónico: kevingerardomacias@gmail.com
 
-# Institución educativa: I.E.El Chairá José María Córdoba
+## Institución educativa: I.E.El Chairá José María Córdoba
 
-# Grado: 1101
+## Grado: 1101
 
 Por seguridad, no publico en este portafolio mi dirección de residencia, número de documento ni otra información personal sensible.
 
