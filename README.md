@@ -3,9 +3,9 @@
 ## kevin Gerardo Macías Miranda 
 Estudiante del grado 1101 | Creativo, responsable y con interés en el área de la salud
 # Sobre mí
-Soy estudiante de grado 11 y actualmente curso mis estudios en I.E.EL CHAIRÁ JOSÉ MARÍA CÓRDOBA me considero una persona responsable, creativa, perseverante y con disposición para aprender cosas nuevas. Me gusta desarrollar actividades relacionadas con la tecnología, el arte y diferentes proyectos escolares que me permitan poner en práctica mis conocimientos. En mi tiempo libre disfruto escuchar música, dibujar y dedicar tiempo a mis intereses personales. En el futuro quiero estudiar Fisioterapia, porque me interesa el área de la salud y la posibilidad de ayudar a las personas a mejorar su movilidad y calidad de vida. Me motiva seguir esforzándome porque cada dificultad representa una oportunidad para aprender y mejorar.
+Soy estudiante de grado 11 y actualmente curso mis estudios en INTITUCIÓN EDUCATIVA EL CHAIRÁ JOSÉ MARÍA CÓRDOBA me considero una persona responsable, creativa, perseverante y con disposición para aprender cosas nuevas. Me gusta desarrollar actividades relacionadas con la tecnología, el arte y diferentes proyectos escolares que me permitan poner en práctica mis conocimientos. En mi tiempo libre disfruto escuchar música, dibujar y dedicar tiempo a mis intereses personales. En el futuro quiero estudiar Fisioterapia, porque me interesa el área de la salud y la posibilidad de ayudar a las personas a mejorar su movilidad y calidad de vida. Me motiva seguir esforzándome porque cada dificultad representa una oportunidad para aprender y mejorar.
 ## Formación Académica
-Actualmente curso grado 11 en I.E.EL CHAIRÁ JOSÉ MARÍA CÓRDOBA, donde estoy culminando mi formación de educación media.
+Actualmente curso grado 11 en INSTITUCIÓN EDUCATIVA EL CHAIRÁ JOSÉ MARÍA CÓRDOBA, donde estoy culminando mi formación de educación media.
 Durante mi proceso académico he adquirido conocimientos en diferentes áreas como tecnología, informática, ciencias, matemáticas, inglés, filosofía y otras asignaturas. También he participado en proyectos escolares que me han permitido desarrollar habilidades de investigación, organización, creatividad y trabajo práctico.
 Uno de los aspectos más importantes de esta etapa ha sido aprender a enfrentar diferentes retos académicos y buscar soluciones utilizando los conocimientos adquiridos durante mi formación.
 # Formación técnica
@@ -58,11 +58,16 @@ A largo plazo quiero seguir desarrollando mis capacidades, adquirir experiencia 
 Contacto
 
 Nombre: Kevin Gerardo Macías Miranda 
+
 Correo electrónico: kevingerardomacias@gmail.com
+
 Institución educativa: I.E.El Chairá José María Córdoba
+
 Grado: 1101
+
 Por seguridad, no publico en este portafolio mi dirección de residencia, número de documento ni otra información personal sensible.
-Conclusión
+
+# Conclusión
 Este portafolio reúne parte de mi proceso académico, mis habilidades, intereses y proyectos realizados durante mi formación escolar.
 Mi objetivo es continuar aprendiendo, superar nuevos retos y prepararme para mi futuro profesional. Considero que cada proyecto y experiencia académica ha contribuido a desarrollar habilidades que serán importantes para mi siguiente etapa educativa y profesional.
 
