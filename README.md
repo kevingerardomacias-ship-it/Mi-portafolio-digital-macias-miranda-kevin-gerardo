@@ -1,5 +1,7 @@
 # Mi-portafolio-digital-macias-miranda-kevin-gerardo
+
 ## Portafolio Digital
+
 ## kevin Gerardo Macías Miranda 
 Estudiante del grado 1101 | Creativo, responsable y con interés en el área de la salud
 # SOBRE MÍ
@@ -57,13 +59,13 @@ Quiero prepararme profesionalmente para adquirir conocimientos sobre el movimien
 A largo plazo quiero seguir desarrollando mis capacidades, adquirir experiencia profesional y construir un futuro en el que pueda aplicar mis conocimientos para contribuir al bienestar y la calidad de vida de otras personas.
 Contacto
 
-### Nombre:Kevin Gerardo Macías Miranda 
+## Nombre:Kevin Gerardo Macías Miranda 
 
-Correo electrónico: kevingerardomacias@gmail.com
+# Correo electrónico: kevingerardomacias@gmail.com
 
-Institución educativa: I.E.El Chairá José María Córdoba
+# Institución educativa: I.E.El Chairá José María Córdoba
 
-Grado: 1101
+# Grado: 1101
 
 Por seguridad, no publico en este portafolio mi dirección de residencia, número de documento ni otra información personal sensible.
 
